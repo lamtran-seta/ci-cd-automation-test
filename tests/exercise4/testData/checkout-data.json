@@ -1,0 +1,11 @@
+{
+  "validCheckout": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "postalCode": "12345"
+  },
+  "expectedMessages": {
+    "success": "Thank you for your order!",
+    "error": "Error: First Name is required"
+  }
+}
